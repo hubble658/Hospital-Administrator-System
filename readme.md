@@ -1,4 +1,5 @@
-# Healthcare Appointment Management System
+# Hospital Administrator System
+
 
 ## Overview
 
